@@ -6,4 +6,4 @@ Main tools in this repo will be:
 - T-SQL
 - Python
 
-Projects are always based on open-source API's. 
+Projects are always based on open-source API's and data sets. 
